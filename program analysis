@@ -1,0 +1,8 @@
+# Static
+
+## pylint
+
+https://pylint.readthedocs.io/en/pylint-1.2/run.html
+
+### use customized setting
+--rcfile pylintrc
